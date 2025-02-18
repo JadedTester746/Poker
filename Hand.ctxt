@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Hand
+comment1.params=hand
+comment1.target=double\ winProbability(Hand)
+numComments=2
