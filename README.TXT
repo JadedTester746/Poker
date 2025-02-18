@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This is my version of a 5 card poker game. As of right now, the game lets you choose a number of AI's to play against that each have the ability to analayze their cards and swap for the optimal hand. Theres also a round of betting where the AI will dynamically raise, call or fold. In the future I intend to clean the code, and make both the card swapping and betting more advanced.
